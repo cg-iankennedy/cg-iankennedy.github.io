@@ -154,7 +154,12 @@
           "relativeTo": "map"
         },
         "placeholderIndex": 1,
-        "id": "_30"
+        "id": "_30",
+        "name": "PopupPanel",
+        "version": "2.17",
+        "closeable": true,
+        "uri": "widgets/PopupPanel/Widget",
+        "config": "configs/PopupPanel/config__30.json"
       },
       {
         "position": {
@@ -162,7 +167,7 @@
           "top": 53,
           "relativeTo": "map"
         },
-        "placeholderIndex": 2,
+        "placeholderIndex": 1,
         "id": "_31"
       },
       {
@@ -171,7 +176,7 @@
           "top": 53,
           "relativeTo": "map"
         },
-        "placeholderIndex": 3,
+        "placeholderIndex": 2,
         "id": "_32"
       },
       {
